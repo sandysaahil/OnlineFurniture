@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: sandy
+Build-Jdk: 9.0.1
+Implementation-Title: Community Demo Site
+Implementation-Version: 1.0.0-SNAPSHOT
+Implementation-Vendor-Id: com.mycompany-community
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/broadleaf-bo
+ ot-starter-parent/boot-community-demo/boot-community-demo-site/
+Created-By: Maven Integration for Eclipse
+
